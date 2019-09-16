@@ -9,6 +9,6 @@ see the example t.py listed in repository
 
 how to install package:
     use this command:
-    pip install rpi-mail-cam-capture
+    "pip install rpi-mail-cam-capture"
 you will need raspberry pi and a camera v2 to use this module appropriately
 use python3 t.py to run the example
